@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ee5dbe;
+    background-color: #fafafa;
     color: #ff907c;
     padding: 25px;
     display: flex;
@@ -125,6 +125,10 @@ body {
     gap: 10px;
 }
 
+.img {
+    height: 150px;
+}
+
 .card-img-placeholder {
     background: #faf6f0;
     border: 1px solid #e0d4c3;
@@ -213,17 +217,17 @@ body {
 
 .content-block h2 {
     margin-bottom: 12px;
-    color: #ca7b63;
+    color: #000000;
 }
 
 .content-block p {
     line-height: 1.5;
-    color: #eb8f7f;
+    color: #000000;
 }
 
 .back-link {
     display: inline-block;
-    color: #b87056;
+    color: #000000;
     text-decoration: none;
     font-weight: bold;
     margin-top: 5px;
